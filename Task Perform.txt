@@ -1,0 +1,57 @@
+1) crud operation add/edit/delete/list record
+    -- delete remaining
+
+2) login/logout with jwt  (done)
+
+3) social media authentication  (that is only maintain to flag only)
+
+4) mysql ke aggregate function 5 ready kar ne hai acche se
+    -- order by and group by difference
+    -- primary key and unique key difference
+    -- forign key 
+    -- what is indexing 
+    --
+
+5) by force to remove token 
+  that is not possible , but we are try to logout using remove cookie.    
+
+6) for loop use kar na hai ki agar image ho to uska link display ho
+7) file us path par exists hai ya nai usko check kar ne ke liye
+
+Task:
+1) check kar na hai ki environment variable exists hai ya nai 
+2) how to setup node 
+
+
+
+sequelize
+loadash
+
+https://stackoverflow.com/questions/35694504/pagination-in-nodejs-with-mysql
+
+
+
+==============
+
+login api
+----------------
+headers  : Content-Type
+Body form : 
+
+select radio button : x-www-form-urlencoded
+
+email
+password
+
+
+Add_user
+--------------
+headers : token
+body : 
+select radio button : form-data
+
+
+
+
+
+
